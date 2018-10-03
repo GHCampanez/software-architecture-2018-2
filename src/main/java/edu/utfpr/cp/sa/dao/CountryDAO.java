@@ -10,6 +10,8 @@ import java.sql.Statement;
 import java.util.HashSet;
 import java.util.Set;
 
+
+//TESTE
 public class CountryDAO {
 
     private final String URL = "jdbc:derby:database";
